@@ -1,0 +1,8 @@
+torch>=1.10
+gym==0.21.0
+numpy
+scikit-learn
+tqdm
+wandb
+termcolor
+d4rl
